@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow
+FROM tensorflow/tensorflow:2.15.0rc0
 
 RUN apt-get update
 
