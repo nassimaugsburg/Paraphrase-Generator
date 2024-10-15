@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow
+FROM tensorflow/tensorflow:2.18.0rc1
 
 RUN apt-get update
 
